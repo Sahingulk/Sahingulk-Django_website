@@ -35,28 +35,4 @@
     <li>Open the browser and go to <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a> to see the project</li>
   </ol>
 </div>
-<style>
-  div {
-    background-color: #f2f2f2;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    font-family: Arial, sans-serif;
-  }
-  p {
-    font-size: 1.2em;
-    font-weight: bold;
-  }
-  ul, ol {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 30px;
-  }
-  a {
-    color: #4CAF50;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
+
