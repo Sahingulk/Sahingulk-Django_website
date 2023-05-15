@@ -2,7 +2,7 @@
   <p>To run the project locally</p>
   <ol>
     <li>Clone the project</li>
-    <ul><br><br>
+    <ul><br>
       <li>git clone [repo url]</li>
     </ul>
     <li>Change directory to DjangoChatRooms</li>
