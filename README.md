@@ -34,9 +34,10 @@
     </ul>
     <li>Open the browser and go to <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a> to see the project</li>
     <ul>
-    <p> Don't forget, you need to change the settings in![django](https://github.com/Sahingulk/Sahingulk-Django_website/assets/73434957/bb88ed28-1f33-4a65-90aa-3d4af45e5d04)
-      <li> </li>
-    </ul>
+    
+   <li> ![django](https://github.com/Sahingulk/Sahingulk-Django_website/assets/73434957/7ca888e6-0f2a-4025-af4b-0e13942141e3)
+        </li>
+  </ul>
 
  this way <p>
   </ol>
