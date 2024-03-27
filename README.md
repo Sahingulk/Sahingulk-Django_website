@@ -1,4 +1,4 @@
-<div>
+![Ekran görüntüsü 2024-03-26 231532](https://github.com/Sahingulk/Sahingulk-Django_website/assets/73434957/463ec10f-dc1d-4730-b040-f95ce78cf124)<div>
   <p>To run the project locally</p>
   <ol>
     <li>Clone the project</li>
@@ -33,6 +33,9 @@
       <li><code>python manage.py runserver</code></li>
     </ul>
     <li>Open the browser and go to <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a> to see the project</li>
+
+    <p> Don't forget, you need to change the settings in![django](https://github.com/Sahingulk/Sahingulk-Django_website/assets/73434957/bb88ed28-1f33-4a65-90aa-3d4af45e5d04)
+ this way <p>
   </ol>
 </div>
 
